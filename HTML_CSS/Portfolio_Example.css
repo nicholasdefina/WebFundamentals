@@ -1,0 +1,121 @@
+#wrapper{
+    height: 1067px;
+    width: 970px;
+    background-color: blueviolet;
+}
+#header{
+    width: 970px;
+    height: 90px;
+    background-color: darkgrey;
+}
+h1{
+    margin: 15px;
+    font-size: 45px;
+    display: inline-block;
+}
+h2{
+    margin-left: 200px;
+    font-size: 30px;
+    display: inline-block;
+}
+#photo{
+    margin: 10px;
+    height: 280px;
+    width: 440px;
+    display: inline-block;
+}
+#about_section{
+    height: 280px;
+    width: 470px;
+    margin: 10px;
+    background-color: darkgrey;
+    vertical-align: top;
+    display: inline-block;
+}
+#LMpic{
+    height: 175px;
+    width: 290px;
+    
+}
+#familypic{
+    height: 175px;
+    width: 290px;
+
+}
+#fiveEleven{
+    height: 175px;
+    width: 290px;
+}
+.Techs{
+    height: 600px;
+    width: 290px;
+    margin: 15px;
+    background-color: darkgrey;
+    vertical-align: top;
+    display: inline-block;
+
+}
+h3{
+    font-size: 30px;
+    background-color: grey;
+    color: white;
+}
+h4{
+    margin: 10px;
+    font-size: 25px;
+    background-color: gray;
+    text-decoration-color: white;
+}
+.icons{
+    height: 40px;
+    width: 40px;
+    margin: 5px;
+}
+h5{
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+p{
+    text-align: left;
+    margin: 5px;
+}
+#contactinfo{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.socmedialogos{
+    height: 25px;
+    width: 25px;
+    margin: 5px;
+    margin-left: 100px;
+}
+#footer{
+    width: 970px;
+    height: 80px;
+    background-color: darkgrey;
+    padding-top: 10px;
+    padding-bottom: 5px; 
+}
+#contactinfo{
+    margin: 5px;
+}
+#about_text{
+    margin: 5px;
+    background-color: grey;
+    color: white;
+}
+.bio{
+    font-size: 20px;
+}
+
+#continue{
+    font-size: 20px;
+    margin: 5px;
+}
+#lamode_text{
+    padding-bottom: 55px;
+}
+#fc_text{
+    padding-bottom: 37px;
+}
