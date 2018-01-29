@@ -1,4 +1,4 @@
-var reward = 0.01;
+var reward = 0.005;
 for (var i = 1; i < 31; i++){
     reward = reward * 2;
 }
