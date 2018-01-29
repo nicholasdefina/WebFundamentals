@@ -1,0 +1,155 @@
+/* reset settings */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper{
+    width: 970px;
+    height: 1200px;
+    background-color: white;
+    display: inline-block;
+
+}
+
+#globe{
+    height: 100px;
+    width: 100px;
+    vertical-align: bottom;
+    display: inline-block;
+ }
+ h1{
+    font-size: 45px;
+     display: inline-block
+ }
+ h2{
+     width: 970px;
+     height: 50px;
+     font-size: 30px;
+     background-color: #4d80aa;
+ }
+ 
+ #header{
+     width: 770px;
+     height: 60px;
+     margin: 0px 0px 0px 0px;
+     display: inline-block;
+     vertical-align: top;
+     border-bottom: 2px solid grey;
+ }
+ #home{
+     margin: 0px 0px 0 px 10px;
+     height: 20px;
+     width: 20px;
+     display: inline-block;
+ }
+
+ h3{
+     margin: 0px 0px 0 px 500px;
+     font-size: 20px;
+     color: #3874a6;
+     display: inline-block;
+     }
+
+ #phone{
+     height: 30px;
+     width: 30px;
+     margin: 10px 0px 0px 500px;
+     display: inline-block;
+ }
+ #hours{
+     margin: 10px 5px 0 px 5px;
+     font-size: 12px;
+     height: 65px;
+     width: 160px;
+     text-align: center;
+     display: inline-block;
+ }
+ #number{
+     font-size: 20px;
+     color: #3874a6;
+ }
+
+ #side_content{
+    width: 196px;
+    height: 600px;
+    margin: 0px 0px 0px 0px;
+    background-color: white;
+    display: inline-block;
+}
+#ad_bg{
+    background-image: url(ad_background.png)
+    height: 300px;
+    width: 175px;
+
+} 
+h4{
+    font-size: 12;
+    height: 20px;
+    width: 175px;
+    margin: 20px 0px 0px 0px;
+}
+#left_content{
+    margin: 10px 0px 10px 0px;
+}
+#button1{
+    height: 50px;
+    width: 175px;
+    margin: 0px 0px 5px 0px;
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+    display: inline-block;
+}
+#button2{
+    height: 50px;
+    width: 175px;
+    margin: 0px 0px 10px 0px;
+    color: white;
+    background-color: orange;
+    border-radius: 10px;
+    display: inline-block;
+}
+.blue{
+    color: #1c5a8d;
+}
+#main{
+    width: 100px;
+    vertical-align: top;
+    display: inline-block;
+}
+#main_content{
+    height: 800px;
+    width: 720px;
+    margin: 15px 0px 0px 15px;
+    display: inline-block;
+}
+#client_server{
+    height: 100px;
+    width: 250px;
+    margin: 0px 300px 0px 250px;
+}
+li{
+    margin: 5px 0px 0px 10px;
+}
+#html{
+    height: 90px;
+    width: 90px;
+    display: inline-block;
+}
+#footer{
+    border: solid blue;
+    margin: 10px 0px 0px 0px;
+}
+.bottom_paragraph{
+    width: 400px;
+    height: 75px;
+    margin: 0px 0px 0px 0px;
+    display: inline-block;
+}
+#subfooter{
+    width: 550px;
+    height: 100px;
+    margin: 0px 0px 0px 10px;
+    display: inline-block;
+}
