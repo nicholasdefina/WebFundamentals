@@ -1,0 +1,85 @@
+#wrapper{
+    height: 1900px;
+    width: 970px;
+    background-color: honeydew;
+}
+
+h1{
+    margin: 0px;
+    height: 75px;
+    width: 970px;
+    background-color: cadetblue;
+    color: darkred;
+    text-align: center;
+    padding: 25px 0px 0px 0px;
+    font-size: 48px;
+}
+
+#side_bar{
+    width: 250px;
+    height: 400px;
+    background-color:salmon;
+    vertical-align: top;
+    display: inline-block;
+}
+
+h4{
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+    font-size: 30px;
+    color: darkslategrey;
+
+}
+
+.dates{
+    text-align: center;
+    font-size: 18px;
+}
+
+.ticketbutton{
+    margin: 0px 0px 0px 85px;
+}
+
+#main_content{
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+h2{
+    font-size: 30px;
+    color: midnightblue;
+    vertical-align: top;
+    margin: 10px 0px 0px 150px;
+
+}
+
+h3{
+    font-size: 26px;
+    color: firebrick;
+    margin: 20px 0px 20px 200px;
+}
+#houdini1{
+    margin: 10px 0px 0px 175px;
+
+}
+
+#houdini2{
+    margin: 10px 0px 0px 175px;
+    height: 300px;
+    width: 250px;
+}
+
+
+
+
+#ghost_pic{
+    height: 250px;
+    width: 350px;
+    margin: 10px 0px 0px 175px;
+}
+
+.dates{
+    color: red;
+
+}
