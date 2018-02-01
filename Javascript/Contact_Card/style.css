@@ -1,0 +1,66 @@
+#wrapper{
+    width: 970px;
+    height: 1200px;
+    background-color: bisque;
+    display: inline-block;
+}
+
+#left_side{
+    height: 1200px;
+    width: 300px;
+    display: inline-block;
+
+}
+
+form{
+    width: 300px;
+    height: 400px;
+    display: inline-block;
+}
+
+
+#right_side{
+    height: 1200px;
+    width: 650px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+h3{
+    margin: 0px 0px 0px 300px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+#business_cards{
+
+    margin: 15px 0px 0px 200px;
+    height: 200px;
+    width: 300px;
+    border: solid 1px black;
+    background-color: whitesmoke;
+    display: inline-block;
+    vertical-align: top;
+}
+h2{
+    margin: 40px 10px 10px 10px;
+    text-align: center;
+}
+h4{
+    margin: 40px 10px 10px 10px;
+    text-align: center;
+}
+
+
+.bCard{
+    margin: 15px 0px 0px 250px;
+    border: solid 1px saddlebrown;
+    background-color: aliceblue;
+    display: inline-block;
+}
+
+#flip {
+   
+    text-align: center;
+    vertical-align: top;
+}
